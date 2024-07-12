@@ -13,7 +13,7 @@ Beats get lost and you don't know that you've created them. Oftentimes it's hard
 ## The Solution:
 By being able to add labels and categorize your projects, you'll be able to easily organize what you've finished, what you still need to work on, and the genres of music you've created.
 
-#Add-on Stem Share
+# Add-on Stem Share
 ## What do Producers want?
 Producers want an easy way to collaborate with others even if they don't share the same DAW. As of right now, music producers are discouraged from cross-platform collaboration.
 
